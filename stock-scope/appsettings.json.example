@@ -1,0 +1,14 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning",
+      "System.Net.Http.HttpClient": "Warning"
+    }
+  },
+  "ALPHA_VANTAGE": {
+    "ApiKey": "YOUR_ALPHA_VANTAGE_API_KEY",
+    "BaseUrl": "https://www.alphavantage.co/query"
+  }
+}
+
